@@ -46,6 +46,8 @@ Then run:
 After a few seconds, Streamlit will show something like this:
 
       Local URL: http://localhost:8501
+
+      
       Network URL: http://192.168.1.xx:8501
 
 🎨 Output:
